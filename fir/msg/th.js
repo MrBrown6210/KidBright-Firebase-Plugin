@@ -8,3 +8,12 @@ Blockly.Msg.FIR_TEXT_ON_CHANGE_TWO = "ทำ";
 Blockly.Msg.FIR_TEXT_CACHED = "ข้อมูลที่เคยได้จาก";
 Blockly.Msg.FIR_TEXT_CONVERT_ONE = "แปลงข้อมูลจาก";
 Blockly.Msg.FIR_TEXT_CONVERT_TWO = "เป็นตัวเลข";
+
+Blockly.Msg.FIR_TEXT_CONNECT_TOOLTIP = "รอจนกว่าจะสามารถเชื่อมต่อ Firebase ได้สำเร็จ";
+Blockly.Msg.FIR_TEXT_GET_TOOLTIP = "รับข้อมูลมาจาก Firebase ตามตำแหน่งที่ระบุ";
+Blockly.Msg.FIR_TEXT_SET_TOOLTIP = "ส่งข้อมูลไปเขียนที่ Firebase ตามตำแหน่งที่ระบุ";
+Blockly.Msg.FIR_TEXT_DELETE_TOOLTIP = "ลบข้อมูลที่ Firebase ตามตำแหน่งที่ระบุ";
+Blockly.Msg.FIR_TEXT_ON_CHANGE_TOOLTIP = "ทำงานเมื่อข้อมูลที่ตำแหน่งที่ระบุมีการเปลี่ยนแปลง";
+Blockly.Msg.FIR_TEXT_CACHED_TOOLTIP = "ข้อมูลล่าสุดที่เคยได้รับจาก Firebase ตามตำแหน่งที่ระบุ";
+Blockly.Msg.FIR_TEXT_CONVERT_TOOLTIP = "ถ้าแปลงไม่ได้จะมีค่าเป็น 0";
+Blockly.Msg.FIR_TEXT_CONCAT_TOOLTIP = "เชื่อมต่อข้อมูล 2 อัน";

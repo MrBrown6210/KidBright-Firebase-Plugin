@@ -8,3 +8,12 @@ Blockly.Msg.FIR_TEXT_ON_CHANGE_TWO = "do";
 Blockly.Msg.FIR_TEXT_CACHED = "Cached data at";
 Blockly.Msg.FIR_TEXT_CONVERT_ONE = "Convert data";
 Blockly.Msg.FIR_TEXT_CONVERT_TWO = "to number";
+
+Blockly.Msg.FIR_TEXT_CONNECT_TOOLTIP = "Wait until KidBright can connect to Firebase";
+Blockly.Msg.FIR_TEXT_GET_TOOLTIP = "Receive data at the Firebase absolute path";
+Blockly.Msg.FIR_TEXT_SET_TOOLTIP = "Put data to database at the Firebase absolute path";
+Blockly.Msg.FIR_TEXT_DELETE_TOOLTIP = "Delete data at the Firebase absolute path";
+Blockly.Msg.FIR_TEXT_ON_CHANGE_TOOLTIP = "Take action when data at the Firebase absolute path has been changed";
+Blockly.Msg.FIR_TEXT_CACHED_TOOLTIP = "The data stored from the last received value at the Firebase absolute path";
+Blockly.Msg.FIR_TEXT_CONVERT_TOOLTIP = "Return 0 if can't convert";
+Blockly.Msg.FIR_TEXT_CONCAT_TOOLTIP = "Combine 2 words";
